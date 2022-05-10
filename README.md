@@ -1,6 +1,7 @@
 *** 
-# To Reader: Source code is on the way ......
-# To Reviewer: please access https://github.com/MCIBOX/MCIBox using passcode in Cover letter. 
+
+### To Reader: Source code of MCIBox is on the way ......
+### To Reviewer: please access https://github.com/MCIBOX/MCIBox using passcode supplied in Cover letter. 
 
 ***
 # MCIBox
