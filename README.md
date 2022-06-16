@@ -114,7 +114,9 @@ Shiny = 1.7.1
 <img src="screenshot4wiki/SC009-rgn_v2.png"/> 
 
 
+### 10. Statistic Information
 
+<img src="screenshot4wiki/STA_INFO.png"/> 
 
 ***
 ***
