@@ -9,7 +9,7 @@
 
 ***
 # MCIBox
-Simon Zhongyuan Tian recent update on 202206 for Version 1.0
+Current Version 1.0 is uploaded by Simon Zhongyuan Tian, recent update on 20220616.
 
 ### [A. MCI-view](https://github.com/tianzhongyuan/MCI-view)
 
