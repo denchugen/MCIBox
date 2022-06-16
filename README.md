@@ -1,11 +1,15 @@
 *** 
 
 ### To Reader: Sorry, Source code of MCIBox is comming ......
-### To Reviewer: please access https://github.com/MCIBOX/MCIBox using passcode in the Cover letter. 
+### To Reviewer: 
+
+  1. Please access https://github.com/MCIBOX/MCIBox using passcode we provied in the Response Letter. 
+  2. Or access https://doi.org/10.5281/zenodo.6650118 by providing the journal name.
+. 
 
 ***
 # MCIBox
-Tian, Zhongyuan recent update on 2022Feb for Version 1.0
+Simon Zhongyuan Tian recent update on 202206 for Version 1.0
 
 ### [A. MCI-view](https://github.com/tianzhongyuan/MCI-view)
 
