@@ -4,7 +4,7 @@
 ### To Reviewer: 
 
   1. Please access https://github.com/MCIBOX/MCIBox using passcode we provied in the Response Letter. 
-  2. Or access https://doi.org/10.5281/zenodo.6650118 by providing the journal name.
+
 . 
 
 ***
