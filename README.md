@@ -155,8 +155,6 @@ https://user-images.githubusercontent.com/104511799/175257554-69210a76-4679-4926
 <img src="screenshot4wiki/STA_INFO.png"/> 
 
 
-
-
 ***
 ***
 ## B. MCI-2kde
