@@ -3,13 +3,11 @@
 ### To Reader: Sorry, Source code of MCIBox is comming ......
 ### To Reviewer: 
 
-  1. Please access https://github.com/MCIBOX/MCIBox using passcode we provied in the Response Letter. 
+  1. To get source code please access https://github.com/MCIBOX/MCIBox using passcode we provied in the Response Letter, here currently supplies description only. 
 
-. 
 
-***
 # MCIBox
-Current Version 1.0. Recent update was on 20220616 by Simon Zhongyuan Tian.
+Current Version 1.0. Recent update was on 202206 by Simon Zhongyuan Tian.
 
 ### [A. MCI-view](https://github.com/tianzhongyuan/MCI-view)
 
@@ -21,7 +19,7 @@ MCI-2kde: a two-dimensional kernel density estimation algorithm based unsupervis
 
 ***
 
-#  A. MCI-view 
+##  A. MCI-view 
 
 ***
 
@@ -50,14 +48,22 @@ chromsome start end fragment_number complex_id
 
 #### 2.1 MCI-view Runtime Environment
 
-Current version MCI-view is a [Shiny](https://www.rstudio.com/products/shiny/shiny-server) based web browser launched by [RStudio](https://www.rstudio.com/) in a [Ubuntu](https://ubuntu.com/) circumstance. 
+Current version MCI-view is a [Shiny](https://www.rstudio.com/products/shiny/shiny-server) based web browser launched by [RStudio](https://www.rstudio.com/) in Ubuntu or MacOS circumstances. 
 
+```
+OS = macOS Big Sur version 11.4
+R = version 4.1.1 (2021-08-10) -- "Kick Things"
+RStudio = 2021.09.0 Build 351
+Shiny = 1.7.1
+```
+or
 ```
 OS = Ubuntu 20.04.3 LTS
 R = version 3.6.3
 RStudio = 2021.09.0+351 Ghost Orchid (desktop)
 Shiny = 1.7.1
 ```
+
 #### 2.2 Install R Package for MCI-view
 * When we run MCI-view for the first time, RStudio will ask us to install some R packages, please choose to install all by default.
 * The package installation process may require us to restart MCI-view several times, please do so until MCI-view can display the interface.
@@ -85,6 +91,10 @@ Shiny = 1.7.1
 <img src="screenshot4wiki/SC002-R-dm3.png"/> 
 
 
+https://user-images.githubusercontent.com/104511799/175238306-00bbeb72-10a7-4553-b64a-9d56e0cad231.mp4
+
+
+
 
 ### 4. High Dimension View
 
@@ -92,39 +102,64 @@ Shiny = 1.7.1
 <img src="screenshot4wiki/SC003-HD-CLU_v2.png"/> 
 
 
+
+https://user-images.githubusercontent.com/104511799/175243109-1f52490c-eef4-484f-aaa3-8e4c5ce2d6a2.mp4
+
+
 ### 5. Low Dimension View
 
 
 <img src="screenshot4wiki/SC005-LD_v2.png"/> 
 
+
+
+https://user-images.githubusercontent.com/104511799/175245655-6dcd760d-8204-41ec-a86f-7acad757d7e8.mp4
+
+
+
 ### 6. Views for Accumulated Bin based Data
 <img src="screenshot4wiki/SC004-1D2D_v2.png"/> 
+
+
+
+https://user-images.githubusercontent.com/104511799/175249851-a8c33ab3-930c-4ba9-ac3f-37660414e322.mp4
+
+
 
 ### 7. Views for Loci Filtering Data
 
 <img src="screenshot4wiki/SC007-loci_v2.png"/> 
+
+
+https://user-images.githubusercontent.com/104511799/175258599-b0569457-d8c1-41ac-b517-54951dbd64fd.mp4
+
+
 
 * Transcription pattern view (RNAPII)
 * Chromatin organization pattern view (CTCF)
 * Transcription regulation pattern view (Super-enhancers)
 * Target loci view 
 
-### 8. Gene Track
+### 8. Operations of gene track and genome region
 
-<img src="screenshot4wiki/SC008-gene_v2.png"/> 
-
-### 9. Access From Gene Name
 
 <img src="screenshot4wiki/SC009-rgn_v2.png"/> 
 
 
-### 10. Statistic Information
+
+https://user-images.githubusercontent.com/104511799/175257554-69210a76-4679-4926-92df-898b9090ea5c.mp4
+
+
+### 9. Statistic Information
 
 <img src="screenshot4wiki/STA_INFO.png"/> 
 
+
+
+
 ***
 ***
-# B. MCI-2kde
+## B. MCI-2kde
 
 
 * MCI-2kde is a two-dimensional kernel density estimation algorithm based unsupervised machine learning method for micro-domains definition automatically.
@@ -140,4 +175,8 @@ Shiny = 1.7.1
   
 
 <img src="screenshot4wiki/SC006-2kde_v2.png"/> 
+
+
+https://user-images.githubusercontent.com/104511799/175262302-934e6aba-93f4-40c7-a9b7-7cb1f920b02a.mp4
+
 
