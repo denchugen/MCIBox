@@ -79,8 +79,8 @@ Shiny = 1.7.1
 
 ### 3. Start MIC-view and load data
 
-please unzip ZIP files (such as DATA/genome/gene/mm9.gvz.zip) before running MCI-view. 
-
+1. please unzip ZIP files (such as DATA/genome/gene/mm9.gvz.zip) before running MCI-view. 
+1. Parameter list in https://github.com/ZhengmzLab/MCIBox/wiki/MCIBox-Manual
 #### Loading Data Source
 
 * After preparing the data source through STEP-1, the directory of the data source needs to be copied to the DATA directory in the MCI-view directory, and then restart the MCI-view program, we can be in the FIN drop-down menu. The newly added data source has been found.
