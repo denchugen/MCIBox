@@ -79,7 +79,7 @@ Shiny = 1.7.1
 
 ### 3. Start MIC-view and load data
 
-1. please unzip ZIP files (such as DATA/genome/gene/mm9.gvz.zip) before running MCI-view. 
+1. Please unzip ZIP files (such as DATA/genome/gene/mm9.gvz.zip) before running MCI-view. 
 1. Parameter list in https://github.com/ZhengmzLab/MCIBox/wiki/MCIBox-Manual
 #### Loading Data Source
 
