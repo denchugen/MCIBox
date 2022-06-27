@@ -5,7 +5,6 @@
 
 # MCIBox
 Current Version 1.0. Recent update was on 202206 by Simon Zhongyuan Tian.
-
 ### [A. MCI-view](https://github.com/tianzhongyuan/MCI-view)
 
 MCI-view: a multiplex clustering algorithms based browser for single-molecule chromatin interaction visualization.
@@ -77,7 +76,7 @@ Shiny = 1.7.1
 ### 3. Start MIC-view and load data
 
 1. Please unzip ZIP files (such as DATA/genome/gene/mm9.gvz.zip) before running MCI-view. 
-1. Parameter list in https://github.com/ZhengmzLab/MCIBox/wiki/MCIBox-Manual
+1. Detail parameter setting see https://github.com/ZhengmzLab/MCIBox/wiki/MCIBox-Manual.
 #### Loading Data Source
 
 * After preparing the data source through STEP-1, the directory of the data source needs to be copied to the DATA directory in the MCI-view directory, and then restart the MCI-view program, we can be in the FIN drop-down menu. The newly added data source has been found.
@@ -176,4 +175,5 @@ https://user-images.githubusercontent.com/104511799/175257554-69210a76-4679-4926
 
 https://user-images.githubusercontent.com/104511799/175262302-934e6aba-93f4-40c7-a9b7-7cb1f920b02a.mp4
 
+***
 
