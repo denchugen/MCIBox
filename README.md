@@ -131,13 +131,16 @@ https://user-images.githubusercontent.com/104511799/175249851-a8c33ab3-930c-4ba9
 
 https://user-images.githubusercontent.com/104511799/175258599-b0569457-d8c1-41ac-b517-54951dbd64fd.mp4
 
-
-
-* Transcription pattern view (RNAPII)
 * Chromatin organization pattern view (CTCF)
 * Transcription regulation pattern view (Super-enhancers)
 * Target loci view 
 
+
+
+https://user-images.githubusercontent.com/88769457/176336651-81686cb2-c939-4bfa-9cce-fa09a950892c.mp4
+
+
+* Transcription pattern view (RNAPII)
 ### 8. Operations of gene track and genome region
 
 
