@@ -22,12 +22,9 @@ MCI-2kde: a two-dimensional kernel density estimation algorithm based unsupervis
 * MCI-view is a [Shiny Server](https://shiny.rstudio.com) visualization browser for multiplex-chromatin interaction data.
 * Data used in MCI-view:[SPRITE](https://linkinghub.elsevier.com/retrieve/pii/S0092867418306366), [GAM](https://www.nature.com/articles/nature21411), [ChIA-Drop and RNAPII CHIA-Drop](http://www.nature.com/articles/s41586-019-0949-1).
 
-![image](https://user-images.githubusercontent.com/88769457/182083542-edd2491b-173d-4094-871c-c4ee29eefbc2.png)
-
-![image](https://user-images.githubusercontent.com/88769457/182083557-26e3e96b-7039-4bc3-91d7-2826e4754afc.png)
 
 
-<img src="screenshot4wiki/SC012_MCIVIEW_v2.png"/> 
+<img src="screenshot4wiki/SC012_MCIVIEW_v2.png" width="1200"/> 
 
 ### 1. Source Data Preparation
 
