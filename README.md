@@ -180,3 +180,6 @@ https://user-images.githubusercontent.com/104511799/175262302-934e6aba-93f4-40c7
 
 ***
 
+Information of dimensionality reduction and clustering algorithms
+
+![image](https://user-images.githubusercontent.com/88769457/182081388-89d965ad-a64f-4cc5-a12e-c03a29656893.png)
