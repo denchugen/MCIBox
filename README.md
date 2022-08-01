@@ -23,8 +23,7 @@ MCI-2kde: a two-dimensional kernel density estimation algorithm based unsupervis
 * Data used in MCI-view:[SPRITE](https://linkinghub.elsevier.com/retrieve/pii/S0092867418306366), [GAM](https://www.nature.com/articles/nature21411), [ChIA-Drop and RNAPII CHIA-Drop](http://www.nature.com/articles/s41586-019-0949-1).
 
 
-
-<img src="screenshot4wiki/SC012_MCIVIEW_v2.png" width="1200"/> 
+<img src="screenshot4wiki/FLOW.png"/> 
 
 ### 1. Source Data Preparation
 
