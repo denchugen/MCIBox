@@ -171,7 +171,9 @@ https://user-images.githubusercontent.com/104511799/175257554-69210a76-4679-4926
 
 ### 10 Information of dimensionality reduction and clustering algorithms
 
-![image](https://user-images.githubusercontent.com/88769457/182081965-bce760e1-49c4-4956-bc1f-f67d7862f661.png)
+
+
+<img src="screenshot4wiki/PARA.png"/> 
 
 ***
 ***
