@@ -39,6 +39,9 @@ chromsome start end fragment_number complex_id
 * RGN file is then splited by chromosomes and compressed to RDS formate (we defined as: "chr2L.SUBRDS.smp"), which is a special data format of R.
 * Copy the direrctory (e.g.: M.GAM0001) of these RDS files to the DATA/ folder.
 * Tools to convert RGN file to SUBRDS.smp are listed in the MKRDS/ directory.
+
+***
+
 ### 2. Installation
 
 
@@ -92,6 +95,7 @@ Shiny = 1.7.1
 https://user-images.githubusercontent.com/104511799/175238306-00bbeb72-10a7-4553-b64a-9d56e0cad231.mp4
 
 
+***
 
 
 ### 4. High Dimension View
@@ -103,6 +107,7 @@ https://user-images.githubusercontent.com/104511799/175238306-00bbeb72-10a7-4553
 
 https://user-images.githubusercontent.com/104511799/175243109-1f52490c-eef4-484f-aaa3-8e4c5ce2d6a2.mp4
 
+***
 
 ### 5. Low Dimension View
 
@@ -113,6 +118,7 @@ https://user-images.githubusercontent.com/104511799/175243109-1f52490c-eef4-484f
 
 https://user-images.githubusercontent.com/104511799/175245655-6dcd760d-8204-41ec-a86f-7acad757d7e8.mp4
 
+***
 
 
 ### 6. Views for Accumulated Bin based Data
@@ -122,6 +128,7 @@ https://user-images.githubusercontent.com/104511799/175245655-6dcd760d-8204-41ec
 
 https://user-images.githubusercontent.com/104511799/175249851-a8c33ab3-930c-4ba9-ac3f-37660414e322.mp4
 
+***
 
 
 ### 7. Views for Loci Filtering Data
@@ -150,6 +157,7 @@ https://user-images.githubusercontent.com/88769457/176336651-81686cb2-c939-4bfa-
 
 https://user-images.githubusercontent.com/104511799/175257554-69210a76-4679-4926-92df-898b9090ea5c.mp4
 
+***
 
 ### 9. Statistic Information
 
@@ -157,7 +165,17 @@ https://user-images.githubusercontent.com/104511799/175257554-69210a76-4679-4926
 
 
 ***
+
+
+
+### 10 Information of dimensionality reduction and clustering algorithms
+
+![image](https://user-images.githubusercontent.com/88769457/182081965-bce760e1-49c4-4956-bc1f-f67d7862f661.png)
+
 ***
+***
+
+
 ## B. MCI-2kde
 
 
@@ -178,8 +196,3 @@ https://user-images.githubusercontent.com/104511799/175257554-69210a76-4679-4926
 
 https://user-images.githubusercontent.com/104511799/175262302-934e6aba-93f4-40c7-a9b7-7cb1f920b02a.mp4
 
-***
-
-Information of dimensionality reduction and clustering algorithms
-
-![image](https://user-images.githubusercontent.com/88769457/182081388-89d965ad-a64f-4cc5-a12e-c03a29656893.png)
